@@ -108,7 +108,7 @@
     <!-- Centered Cyber Framed Image Box -->
     <div id="frame-container">
         <!-- CHANGE IMAGE HERE: Replace the link inside src="..." with your own public https:// image link -->
-        <img src="images.jpeg" alt="WORM VIRUS!">
+        <img src="file:///storage/emulated/0/Download/images.jpeg" alt="WORM VIRUS!">
     </div>
 
     <!-- Main interactive interface -->
